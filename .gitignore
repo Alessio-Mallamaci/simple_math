@@ -1,4 +1,4 @@
 *.exe
 *_td.c
 *.vscode/
-[Cc]ompiler/SS
+[Cc]ompiler/
